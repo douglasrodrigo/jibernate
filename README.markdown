@@ -1,3 +1,6 @@
+*********Please look here https://github.com/mkristian/dm-hibernate-adapter ***********
+
+
 Jibernate/Hibernate module for DataMapper
 =========================================
 
